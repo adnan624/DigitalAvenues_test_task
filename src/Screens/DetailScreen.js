@@ -74,6 +74,7 @@ const styles = StyleSheet.create({
   text: {
     fontSize: 18,
     color: '#333',
+    maxWidth: 180
   },
   description: {
     fontSize: 16,
